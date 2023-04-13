@@ -1,4 +1,4 @@
-# CHEMICAL THEORY
+# CHEMICAL THEORY: STATISTICAL THERMODYNAMICS
 
 The repository contains notes of statistic thermodynamics lectures for learning and reviewing.
 
